@@ -45,6 +45,7 @@ export const API_CLOUD_SKILL = [
 export const TOOLS_SKILL = [
   { skill_name: "Git", image: "git.png", width: 80, height: 80 },
   { skill_name: "Postman", image: "postman.png", width: 80, height: 80 },
+  { skill_name: "Figma", image: "figma.png", width: 80, height: 80 },
 ];
 
 
