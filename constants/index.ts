@@ -128,8 +128,8 @@ export const PERSONAL_PROJECTS: { title: string; description: string; image: str
     description:
       "A modern landing page showcasing my portfolio..",
     image: "/projects/teamwork.jpg",
-    demoLink: "#",
-    githubLink: "#", // Private repository
+    demoLink: "https://nguyenvietquocportfolio.vercel.app/",
+    githubLink: "https://github.com/Quocdeptraidev/space-portfolio/tree/main?tab=readme-ov-file", // Private repository
     tags: ["Next.js", "Tailwind CSS", "React", "TypeScript"]
   },
 ];
